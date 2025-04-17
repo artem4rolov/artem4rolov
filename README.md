@@ -29,8 +29,6 @@
 ### Обо мне
 🌱 Работаю с React, изучаю построение SPA mobile-first
   <br/>
-📝 Мой сайт-портфолио [Portfolio](https://artem4rolov.github.io/js-portfolio-mobilefirst/)
-  <br/>
 :anger: В свободное время снижаю самооценку на codeWars :rofl:
   <br/>
 
